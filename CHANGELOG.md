@@ -1,5 +1,12 @@
 ### Versions
 
+## 0.9.7
+###### *2020-06-17*
+
+### `@oakwood/oui@v0.9.7`
+
+- [MediaLoader] Fix MediaLoader from not forwarding external ref on the child element
+
 ## 0.9.6
 ###### *2020-06-17*
 
